@@ -42,7 +42,7 @@ stfu
 tbh
 ttyl
 uhc
-uudi
+uuid
 vip
 wtf
 xmas
